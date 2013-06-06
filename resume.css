@@ -1,0 +1,71 @@
+body {
+    background: #FBFBFB;
+    color: #333;
+    font-family: Verdana, sans-serif;
+}
+
+#container {
+    margin: auto;
+    width: 7.5in;
+    padding: .5in;
+}
+
+#contact {
+    float: right;
+    text-align: right;
+}
+
+#contact p {
+    font-size: smaller;
+    margin: 0em;
+}
+
+img {
+    padding: 4px;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 150%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size:125%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li ul {
+    list-style-type: circle;
+    margin-bottom: 1em;
+}
+
+li {
+    margin-top: 0em;
+}
+
+ul li ul li {
+    margin: 0em;
+}
+
+p {
+    margin-top:0em;
+    margin-bottom: 0em;
+}
