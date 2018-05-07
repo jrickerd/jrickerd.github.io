@@ -4,7 +4,7 @@ Email: john@rickerd.org
 Tel: 1.208.395.1290
 Web: http://resume.rickerd.org
 
-**Full stack and mobile developer.   [[pdf](http://resume.rickerd.org/resume.pdf)]
+**Full stack and mobile developer.**   [[pdf](http://resume.rickerd.org/resume.pdf)]
 
 ## SKILLS
 
