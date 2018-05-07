@@ -4,7 +4,7 @@ Email: john@rickerd.org
 Tel: 1.208.395.1290
 Web: http://resume.rickerd.org
 
-**Full stack and mobile developer.**   [[pdf](http://resume.rickerd.org/resume.pdf)]
+**Full stack and mobile developer.**   [[pdf](http://resume.rickerd.org/resume.pdf)] [[md](http://resume.rickerd.org/resume.md)] [[doc](http://resume.rickerd.org/resume.doc)]
 
 ## SKILLS
 
@@ -28,7 +28,7 @@ Full Spectrum Developer
 
 ### *Director of Technology*, [Behavior Imaging](https://behaviorimaging.com/) (Jan 2012 — Jan 2014)
 
-Oversaw development of autism assessment platform and app.
+Led development of autism assessment platform and app.
   - **[Behavior Connect](https://behaviorimaging.com/products/behavior-connect/):** Developed specifications for Behavior Connect and Assessment View products.  Oversaw  all phases of development and deployment.  Both products are developed in PHP, using the Symfony2 framework.  The UI is built with ExtJS.
   - **[Assessment View](https://behaviorimaging.com/products/assessment-view/):** Supported the State of Mississippi while they used the Assessment View product to perform alternate assessment – around 1,300 teachers utilized Assessment View to perform assessments on 3,600 students.
   - **[NODA](https://behaviorimaging.com/noda/):** Supported the State of Mississippi while they used the Assessment View product to perform alternate assessment – around 1,300 teachers utilized Assessment View to perform assessments on 3,600 students.

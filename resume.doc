@@ -506,7 +506,7 @@
           </w:r>
         </w:hlink>
       </w:p>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Full stack and mobile developer.</w:t></w:r><w:r><w:rPr></w:rPr><w:t>   [</w:t></w:r><w:hlink w:dest="http://resume.rickerd.org/resume.pdf"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>pdf</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>]</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Full stack and mobile developer.</w:t></w:r><w:r><w:rPr></w:rPr><w:t>   [</w:t></w:r><w:hlink w:dest="http://resume.rickerd.org/resume.pdf"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>pdf</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>] [</w:t></w:r><w:hlink w:dest="http://resume.rickerd.org/resume.md"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>md</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>] [</w:t></w:r><w:hlink w:dest="http://resume.rickerd.org/resume.doc"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>doc</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>]</w:t></w:r>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
     <w:pPr>
@@ -817,7 +817,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Oversaw development of autism assessment platform and app.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Led development of autism assessment platform and app.</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
