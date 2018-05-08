@@ -833,7 +833,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:hlink w:dest="https://behaviorimaging.com/products/behavior-connect/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Behavior Connect</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Developed specifications for Behavior Connect and Assessment View products.  Oversaw  all phases of development and deployment.  Both products are developed in PHP, using the Symfony2 framework.  The UI is built with ExtJS.</w:t></w:r>
+      <w:hlink w:dest="https://behaviorimaging.com/products/behavior-connect/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Behavior Connect</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -863,7 +863,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:hlink w:dest="https://behaviorimaging.com/noda/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>NODA</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Supported the State of Mississippi while they used the Assessment View product to perform alternate assessment – around 1,300 teachers utilized Assessment View to perform assessments on 3,600 students.</w:t></w:r>
+      <w:hlink w:dest="https://behaviorimaging.com/noda/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>NODA</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> NODA was a research project conducted with Georgia Tech and SARRC.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -932,7 +932,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Idaho Dept of Labor:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Maintained and improved Idaho Department of Labor Unemployment Insurance fraud tracking web application built in VB.NET.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Idaho Dept of Labor:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Maintained and improved Idaho Department of Labor Unemployment Insurance VB.NET fraud tracking web application.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -962,7 +962,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Microsoft/ProClarity:</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Microsoft/ProClarity:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Assisted with Delphi legacy support after Microsoft acquired ProClarity.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -992,7 +992,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:hlink w:dest="http://www.healthwise.org"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Healthwise</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r>
+      <w:hlink w:dest="http://www.healthwise.org"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Healthwise</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Consulted as VSTO expert on Excel-based data entry application to simplify medical diagnosis rules.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1007,7 +1007,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Boise Cascade:</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Boise Cascade:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I built an Excel app for users to generate material estimates based on structure layout. I also developed a desktop app that parsed lumbermill log data and generated metrics using Excel pivot tables.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1037,7 +1037,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Drupal:</w:t></w:r><w:hlink w:dest="https://craneweb.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Craneweb</w:t></w:r></w:hlink><w:hlink w:dest="https://www.farmhousecollection.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Farmhouse Collection</w:t></w:r></w:hlink>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Drupal:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I developed a number of Drupal sites; notable instances include </w:t></w:r><w:hlink w:dest="https://craneweb.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Craneweb</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> and </w:t></w:r><w:hlink w:dest="https://www.farmhousecollection.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Farmhouse Collection</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>.</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -1093,21 +1093,6 @@
       </w:pPr>
       <w:r><w:rPr><w:b/></w:rPr><w:t>Software Engineer:</w:t></w:r>
     </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Contract Software Engineer:</w:t></w:r>
-    </w:p>
 
   </wx:sub-section>
 
@@ -1135,7 +1120,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Jan 2001 — Jun 2005</w:t>
+        <w:t>Jun 1998 — Jan 2001</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1147,21 +1132,6 @@
       
     </w:p>
 
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Software Engineer II:</w:t></w:r>
-    </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
         <w:pStyle w:val="ListParagraph"/>
