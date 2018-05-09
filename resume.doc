@@ -817,7 +817,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Led development of autism assessment platform and app.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Led development of assessment platform and iOS apps. Administered AWS environment.</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -863,7 +863,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:hlink w:dest="https://behaviorimaging.com/noda/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>NODA</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> NODA was a research project conducted with Georgia Tech and SARRC.</w:t></w:r>
+      <w:hlink w:dest="https://behaviorimaging.com/noda/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>NODA</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> NODA was a research project conducted with Georgia Tech and SARRC; an iOS app was developed to allow</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -962,7 +962,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Microsoft/ProClarity:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Assisted with Delphi legacy support after Microsoft acquired ProClarity.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Microsoft/ProClarity:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Part of team assisting with Delphi legacy support after Microsoft acquired ProClarity. My focus was localization.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -992,7 +992,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:hlink w:dest="http://www.healthwise.org"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Healthwise</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Consulted as VSTO expert on Excel-based data entry application to simplify medical diagnosis rules.</w:t></w:r>
+      <w:hlink w:dest="http://www.healthwise.org"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Healthwise</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Consulted as VSTO expert on Excel-based data entry application to simplify medical diagnosis rule entry.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1037,7 +1037,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Drupal:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I developed a number of Drupal sites; notable instances include </w:t></w:r><w:hlink w:dest="https://craneweb.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Craneweb</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> and </w:t></w:r><w:hlink w:dest="https://www.farmhousecollection.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Farmhouse Collection</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Drupal:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I developed a number of Drupal sites; notable instances include </w:t></w:r><w:hlink w:dest="https://craneweb.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Craneweb</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> which allowed users to buy, sell and lease cranes. The </w:t></w:r><w:hlink w:dest="https://www.farmhousecollection.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Farmhouse Collection</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> was a furniture site accessible by designers.</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -1091,7 +1091,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Software Engineer:</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Software Engineer:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I developed, documented and supported the Laserjet embedded Chai VM SDK (HP&amp;apos;s Java implementation). I used JNI to integrate with the LaserJet scan and fax eCOM functionality.</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -1145,7 +1145,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Contract Software Engineer II</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Contract Software Engineer II: </w:t></w:r><w:r><w:rPr></w:rPr><w:t> I worked as a QA engineer using Perl to build and run a test harness. I used </w:t></w:r><w:hlink w:dest="http://www.swig.org/"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>SWIG</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> to interface with SCAPI which read low-level scanner data; this enabled automated scan and fax tests.</w:t></w:r>
     </w:p>
 
   </wx:sub-section>

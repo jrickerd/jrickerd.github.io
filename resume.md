@@ -28,10 +28,10 @@ Full Spectrum Developer
 
 ### *Director of Technology*, [Behavior Imaging](https://behaviorimaging.com/) (Jan 2012 — Jan 2014)
 
-Led development of autism assessment platform and app.
+Led development of assessment platform and iOS apps. Administered AWS environment.
   - **[Behavior Connect](https://behaviorimaging.com/products/behavior-connect/):** 
   - **[Assessment View](https://behaviorimaging.com/products/assessment-view/):** Supported the State of Mississippi while they used the Assessment View product to perform alternate assessment – around 1,300 teachers utilized Assessment View to perform assessments on 3,600 students.
-  - **[NODA](https://behaviorimaging.com/noda/):** NODA was a research project conducted with Georgia Tech and SARRC.
+  - **[NODA](https://behaviorimaging.com/noda/):** NODA was a research project conducted with Georgia Tech and SARRC; an iOS app was developed to allow 
   - **iOS:** Specified and managed development of specialized versions of Behavior Connect, including custom iOS apps used for data collection.
 
 ### *Software Engineer*, Blackfin/Xtreme Consulting (May 2006 — Jan 2012)
@@ -39,22 +39,22 @@ Led development of autism assessment platform and app.
 Software development consultant
   - **Idaho Dept of Labor:** Maintained and improved Idaho Department of Labor Unemployment Insurance VB.NET fraud tracking web application.
   - **Microsoft:** Developed an application to generate and validate software loan offers. The financial rules were highly dynamic and complex. I implemented a simple DSL to translate textual rules (stored in the DB) to C# Expressions, which were bound to client-side validators. I also implemented a simple ANTLR parser to assist with testing.
-  - **Microsoft/ProClarity:** Assisted with Delphi legacy support after Microsoft acquired ProClarity.
+  - **Microsoft/ProClarity:** Part of team assisting with Delphi legacy support after Microsoft acquired ProClarity. My focus was localization.
   - **Idaho Department of Education:** Longitudinal Data System – worked on ASP.NET MVC user applications, Schoolnet data integration and general reporting.
-  - **[Healthwise](http://www.healthwise.org):** Consulted as VSTO expert on Excel-based data entry application to simplify medical diagnosis rules.
+  - **[Healthwise](http://www.healthwise.org):** Consulted as VSTO expert on Excel-based data entry application to simplify medical diagnosis rule entry.
   - **Boise Cascade:** I built an Excel app for users to generate material estimates based on structure layout. I also developed a desktop app that parsed lumbermill log data and generated metrics using Excel pivot tables.
   - **Idaho Dept of Lands:** Built [timber sale tracking app](http://web.idl.idaho.gov/timbersale/Search.aspx) using Windows Workflow Foundation and ASP.NET; integrated with IDL site.
-  - **Drupal:** I developed a number of Drupal sites; notable instances include [Craneweb](https://craneweb.com) and [Farmhouse Collection](https://www.farmhousecollection.com).
+  - **Drupal:** I developed a number of Drupal sites; notable instances include [Craneweb](https://craneweb.com) which allowed users to buy, sell and lease cranes. The [Farmhouse Collection](https://www.farmhousecollection.com) was a furniture site accessible by designers.
 
 ### *Software Engineer*, Hewlett Packard (Jan 2001 — Jun 2005)
 
 
-  - **Software Engineer:**
+  - **Software Engineer:** I developed, documented and supported the Laserjet embedded Chai VM SDK (HP's Java implementation). I used JNI to integrate with the LaserJet scan and fax eCOM functionality.
 
 ### *Contract Software Engineer*, Hewlett Packard (Jun 1998 — Jan 2001)
 
 
-  - **Contract Software Engineer II**
+  - **Contract Software Engineer II: ** I worked as a QA engineer using Perl to build and run a test harness. I used [SWIG](http://www.swig.org/) to interface with SCAPI which read low-level scanner data; this enabled automated scan and fax tests.
 
 
 
