@@ -11,8 +11,8 @@ Web: http://resume.rickerd.org
   - Web: JavaScript jQuery ExtJS Angular 
   - Mobile: Android Gradle RxAndroid Retrofit Dagger/Butterknife iOS Objective-C Cocoapods Restangular 
   - Frameworks: Django Drupal Spring Symfony2 ASP.NET MVC 
-  - Languages: Python PHP Java JavaScript C# VB.NET VBA C/C++ PowerShell Objective-C 
-  - Other: Git Gradle 
+  - Languages: Python PHP Java JavaScript C# VB.NET VBA C/C++ PowerShell Objective-C Perl 
+  - Other: Git Gradle AWS Kafka 
 
 ## EMPLOYMENT
 
