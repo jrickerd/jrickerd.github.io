@@ -8,9 +8,11 @@ Web: http://resume.rickerd.org
 
 ## SKILLS
 
-  - Web: JavaScript jQuery ExtJS Spring Django Drupal Symfony2 ASP.NET MVC 
+  - Web: JavaScript jQuery ExtJS Angular 
   - Mobile: Android Gradle RxAndroid Retrofit Dagger/Butterknife iOS Objective-C Cocoapods Restangular 
-  - Mobile: Android Gradle RxAndroid Retrofit Dagger/Butterknife iOS Objective-C Cocoapods Restangular 
+  - Frameworks: Django Drupal Spring Symfony2 ASP.NET MVC 
+  - Languages: Python PHP Java JavaScript C# VB.NET VBA C/C++ PowerShell Objective-C 
+  - Other: Git Gradle 
 
 ## EMPLOYMENT
 
@@ -21,17 +23,17 @@ Full Spectrum Developer
   - **Android:** I assisted out Android developer with backend integration and app architecture. I brought in Dagger and Butterknife to simplify Activity wireup. I also integrated RxAndroid to tame response handling.
   - **iOS:** Developed several prototype iOS apps as part of 8 member team. After the team was downsized to 2 engineers, I provided backend support. Eventually, I became the primary iOS developer.
   - **Cordova:** Integrated Android push notifications into a Cordova client wrapper app.
-  - **Django:** Built backend components and implemented services using Django. I also used Scrapy (which is built on Django) to build custom content importers.
-  - **Spring:** Implemented backend and external services with Spring.
+  - **Django/Python:** Built backend components and implemented services using Django. I also used Scrapy (Django-based web crawler) to build custom content importers. I built csv importers 
+  - **Spring:** Implemented backend and external services with Spring. Coordinated services with Kafka and Rabbit. Built real time chat capabilities using Websockets and Rabbit.
   - **Angular:** Built and maintained Angular client.
   - **Node:** Maintained node.js admin service.
 
 ### *Director of Technology*, [Behavior Imaging](https://behaviorimaging.com/) (Jan 2012 — Jan 2014)
 
 Led development of assessment platform and iOS apps. Administered AWS environment.
-  - **[Behavior Connect](https://behaviorimaging.com/products/behavior-connect/):** 
-  - **[Assessment View](https://behaviorimaging.com/products/assessment-view/):** Supported the State of Mississippi while they used the Assessment View product to perform alternate assessment – around 1,300 teachers utilized Assessment View to perform assessments on 3,600 students.
-  - **[NODA](https://behaviorimaging.com/noda/):** NODA was a research project conducted with Georgia Tech and SARRC; an iOS app was developed to allow 
+  - **[Behavior Connect](https://behaviorimaging.com/products/behavior-connect/):** Behavior Connect was the core platform. I developed the the specification to rebuild the platform. I also worked with additional clients to support other uses, notably pharmaceutical trials.
+  - **[Assessment View](https://behaviorimaging.com/products/assessment-view/):** AssessmentView was based off of Behavior Connect, targeting K-12 Alternate Assessment. I administered the AWS infrastructure and provided support to end users.
+  - **[NODA](https://behaviorimaging.com/noda/):** NODA was a research project conducted with Georgia Tech and SARRC; an iOS app was developed to allow caregivers to record and upload video of patient behaviors for clinician analysis. The video was tagged with DSM IV generated tags to quantify diagnostics.
   - **iOS:** Specified and managed development of specialized versions of Behavior Connect, including custom iOS apps used for data collection.
 
 ### *Software Engineer*, Blackfin/Xtreme Consulting (May 2006 — Jan 2012)
@@ -48,7 +50,7 @@ Software development consultant
 
 ### *Software Engineer*, Hewlett Packard (Jan 2001 — Jun 2005)
 
-
+Software Engineer supporting third party application development
   - **Software Engineer:** I developed, documented and supported the Laserjet embedded Chai VM SDK (HP's Java implementation). I used JNI to integrate with the LaserJet scan and fax eCOM functionality.
 
 ### *Contract Software Engineer*, Hewlett Packard (Jun 1998 — Jan 2001)
@@ -63,14 +65,17 @@ Software development consultant
 
 ### Boise State University (Jan 1997 — Jan 2000)
 
+Computer Science and Math.
 
 
 ### University of Idaho (Jan 1989 — Jan 1991)
 
+Classical Languages.
 
 
 ### University of Puget Sound (Jan 1987 — Jan 1989)
 
+Business Leadership, Computer Science and Honors Program.
 
 
 

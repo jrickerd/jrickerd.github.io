@@ -546,7 +546,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>JavaScript, jQuery, ExtJS, Spring, Django, Drupal, Symfony2, ASP.NET MVC</w:t>
+            <w:t>JavaScript, jQuery, ExtJS, Angular</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -587,7 +587,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Mobile:</w:t>
+            <w:t>Frameworks:</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -598,7 +598,59 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Android, Gradle, RxAndroid, Retrofit, Dagger/Butterknife, iOS, Objective-C, Cocoapods, Restangular</w:t>
+            <w:t>Django, Drupal, Spring, Symfony2, ASP.NET MVC</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Languages:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Python, PHP, Java, JavaScript, C#, VB.NET, VBA, C/C++, PowerShell, Objective-C</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Other:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Git, Gradle</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -731,7 +783,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Django:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built backend components and implemented services using Django. I also used Scrapy (which is built on Django) to build custom content importers.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Django/Python:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built backend components and implemented services using Django. I also used Scrapy (Django-based web crawler) to build custom content importers. I built csv importers</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -746,7 +798,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Spring:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Implemented backend and external services with Spring.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Spring:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Implemented backend and external services with Spring. Coordinated services with Kafka and Rabbit. Built real time chat capabilities using Websockets and Rabbit.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -833,7 +885,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:hlink w:dest="https://behaviorimaging.com/products/behavior-connect/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Behavior Connect</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r>
+      <w:hlink w:dest="https://behaviorimaging.com/products/behavior-connect/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Behavior Connect</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Behavior Connect was the core platform. I developed the the specification to rebuild the platform. I also worked with additional clients to support other uses, notably pharmaceutical trials.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -848,7 +900,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:hlink w:dest="https://behaviorimaging.com/products/assessment-view/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Assessment View</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Supported the State of Mississippi while they used the Assessment View product to perform alternate assessment – around 1,300 teachers utilized Assessment View to perform assessments on 3,600 students.</w:t></w:r>
+      <w:hlink w:dest="https://behaviorimaging.com/products/assessment-view/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Assessment View</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> AssessmentView was based off of Behavior Connect, targeting K-12 Alternate Assessment. I administered the AWS infrastructure and provided support to end users.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -863,7 +915,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:hlink w:dest="https://behaviorimaging.com/noda/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>NODA</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> NODA was a research project conducted with Georgia Tech and SARRC; an iOS app was developed to allow</w:t></w:r>
+      <w:hlink w:dest="https://behaviorimaging.com/noda/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>NODA</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> NODA was a research project conducted with Georgia Tech and SARRC; an iOS app was developed to allow caregivers to record and upload video of patient behaviors for clinician analysis. The video was tagged with DSM IV generated tags to quantify diagnostics.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1075,7 +1127,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      
+      <w:r><w:rPr></w:rPr><w:t>Software Engineer supporting third party application development</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
