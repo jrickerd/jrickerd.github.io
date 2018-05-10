@@ -783,7 +783,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Django/Python:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built backend components and implemented services using Django. I also used Scrapy (Django-based web crawler) to build custom content importers. I built csv importers</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Django/Python:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built backend components and implemented services using Django. I also used Scrapy (Django-based web crawler) to build custom content importers. I built a lot of csv importers to bring client data into the platform.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -798,7 +798,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Spring:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Implemented backend and external services with Spring. Coordinated services with Kafka and Rabbit. Built real time chat capabilities using Websockets and Rabbit.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Spring:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Implemented backend and external services with Spring. Coordinated services with Kafka and Rabbit. I built real time chat capabilities using Websockets and Rabbit and integrated with the mobile platforms.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
