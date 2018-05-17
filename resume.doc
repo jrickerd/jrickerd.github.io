@@ -738,7 +738,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Android:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I assisted out Android developer with backend integration and app architecture. I brought in Dagger and Butterknife to simplify Activity wireup. I also integrated RxAndroid to tame response handling.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Android:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I assisted our Android developer with backend integration and app architecture. I brought in Dagger and Butterknife to simplify Activity wireup. I also integrated RxAndroid to tame response handling.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
