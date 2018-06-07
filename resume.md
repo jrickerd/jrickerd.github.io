@@ -18,13 +18,13 @@ Web: http://resume.rickerd.org
 
 ### *Software Developer*, [Declara](https://corp.declara.com) (Jan 2014 — Present)
 
-Full Spectrum Developer
-  - **Xamarin:** I prototyped a Xamarin (C#) Android app in tandem with another engineer who built an iOS app. We determined that unifying the platforms was not practical due to networking libraries.
-  - **Android:** I assisted our Android developer with backend integration and app architecture. I brought in Dagger and Butterknife to simplify Activity wireup. I also integrated RxAndroid to tame response handling.
-  - **iOS:** Developed several prototype iOS apps as part of 8 member team. After the team was downsized to 2 engineers, I provided backend support. Eventually, I became the primary iOS developer.
-  - **Cordova:** Integrated Android push notifications into a Cordova client wrapper app.
-  - **Django/Python:** Built backend components and implemented services using Django. I also used Scrapy (Django-based web crawler) to build custom content importers. I built a lot of csv importers to bring client data into the platform.
-  - **Spring:** Implemented backend and external services with Spring. Coordinated services with Kafka and Rabbit. I built real time chat capabilities using Websockets and Rabbit and integrated with the mobile platforms.
+Full Spectrum Developer. I've been involved in nearly all the platform components and mobile apps.
+  - **Xamarin:** I prototyped a Xamarin (C#) Android app in tandem with another engineer who built an iOS app. We determined that unifying the platforms was not practical since there wasn't a cross platform REST library, and we would need to implement separate UI's for each platform.
+  - **Android:** I led backend integration and app architecture and worked with our designers to build a Material Design UI. I brought in Dagger and Butterknife to simplify Activity wireup. I also integrated RxAndroid to tame response handling. I integrated a suite of tests using JUnit. We integrated chat using Websockets. I managed release testing and publishing.
+  - **iOS:** Developed several prototype iOS apps as part of 8 member team. After the team was downsized to 2 engineers, I provided backend support. Eventually I became the primary iOS developer, responsible for feature development and release management.
+  - **Cordova:** Integrated Android push notifications into a Cordova webclient wrapper app for a one-off app by client request.
+  - **Django/Python:** I built backend components and implemented services using Django. I also used Scrapy (Django-based web crawler) to build custom content importers. I built a lot of csv importers to bring client data into the platform.
+  - **Spring:** Implemented backend and external services with Spring. Coordinated services with Kafka and RabbitMQ. I built real time chat capabilities using Websockets and RabbitMQ and integrated with the mobile platforms.
   - **Angular:** Built and maintained Angular client.
   - **Node:** Maintained node.js admin service.
 
