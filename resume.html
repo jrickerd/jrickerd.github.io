@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <style>
             html, body, main, section, header, ul, p, h1, h2, h3 {
-              font-family: 'Calibri', 'Helvetica Neue', 'Helvetica', 'Segoe UI', 'sans-serif';
+              font-family: Calibri, 'Helvetica Neue', Helvetica, 'Segoe UI', sans-serif;
               font-size: 12px;
               margin: 0; padding: 0;
               display: block;
@@ -53,13 +53,28 @@
               margin-left: 2em;
             }
             
+            h3 {
+              margin-top: 1em;
+            }
+            
+            h3.title {
+              display: inline;
+            }
+            
             p, li {
               text-align: justify;
-              clear: both;
             }
             
             .tenure {
               float: right;
+            }
+            
+            div.job {
+              margin-top: 0.5em;
+            }
+            
+            div.job:last-child {
+              margin-bottom: 1em;
             }
             
             thead {
@@ -74,8 +89,10 @@
             }
             
             
-            h3 {
-              display: inline-block;
+            main > header > h1 {
+              float: left;
+              font-size: 1.5em;
+              text-transform: uppercase;
               line-height: 1;
             }
             #contact {
@@ -90,21 +107,9 @@
               margin-left: 5px;
             }
             
-            span.fa {
+            h2 > span.fa {
               text-align: left;
               margin-right: 3px;
-              float: left;
-            }
-            
-            section > div {
-              margin-bottom: 1em;
-              clear: both;
-            }
-            
-            span.keywords {
-              font-size: 10px;
-              color: gray;
-              text-align: right;
             }
         </style>
     </head>
@@ -113,18 +118,18 @@
         <main>
             <header>
                  <h1>John Rickerd</h1>
+
                 <div id="contact">
                     <div class="email"><a href="mailto:john@rickerd.org">john@rickerd.org</a>
                     </div>
                     <div class="phone">1.208.395.1290</div>
-                    <div class="website"><a href="http://resume.rickerd.org">resume.rickerd.org</a>
+                    <div class="website"><a href="https://resume.rickerd.org">resume.rickerd.org</a>
                     </div>
                 </div>
             </header>
             <!-- -->
             <hr>
-            <section id="summary"> <strong>Full stack and mobile developer.</strong> [<a href="http://resume.rickerd.org/resume.pdf">pdf</a>]
-                [<a href="http://resume.rickerd.org/resume.md">md</a>]</section>
+            <section id="summary"> <strong>Senior full stack and mobile engineer.</strong> [<a href="resume.pdf">pdf</a>]</section>
             <hr>
             <section id="skills">
                 <header>
@@ -141,7 +146,7 @@
                     <tbody>
                         <tr>
                             <td style="width: 25%;">Web</td>
-                            <td class="keywords">JavaScript jQuery ExtJS Angular</td>
+                            <td class="keywords">JavaScript jQuery Angular</td>
                         </tr>
                         <tr>
                             <td style="width: 25%;">Mobile</td>
@@ -150,16 +155,20 @@
                         </tr>
                         <tr>
                             <td style="width: 25%;">Frameworks</td>
-                            <td class="keywords">Django Drupal Spring Symfony2 ASP.NET MVC</td>
+                            <td class="keywords">Django Spring Boot ASP.NET MVC Node</td>
                         </tr>
                         <tr>
                             <td style="width: 25%;">Languages</td>
-                            <td class="keywords">Python PHP Java JavaScript C# VB.NET VBA C/C++ PowerShell Objective-C
-                                Perl</td>
+                            <td class="keywords">Python PHP Java JavaScript C# Objective-C</td>
+                        </tr>
+                        <tr>
+                            <td style="width: 25%;">Database</td>
+                            <td class="keywords">PostgreSQL MySQL SqlServer</td>
                         </tr>
                         <tr>
                             <td style="width: 25%;">Other</td>
-                            <td class="keywords">Git Gradle AWS Kafka</td>
+                            <td class="keywords">Git Gradle Maven RabbitMQ NServiceBus AWS Terraform Kubernetes Docker
+                                ANTLR</td>
                         </tr>
                     </tbody>
                 </table>
@@ -170,54 +179,87 @@
                      <h2>employment</h2>
 
                 </header>
-                <div>
-                     <h3><em>Software Developer</em>,
+                <div class="job">
+                    <div>
+                         <h3 class="title"><em>Senior Software Engineer</em>,
+        <a href="https://bodybuilding.com">Bodybuilding.com</a>
+    </h3>
+ <span class="tenure">Jul 2018 — Present</span>
 
-    <a href="https://corp.declara.com">Declara</a>
-
-    </h3> <span class="tenure">Jan 2014 — Present</span>
+                    </div>
                     <p>
-                        <p>Full Spectrum Developer</p>
+                        <p>Senior Software Engineer supporting ECommerce fulfillment platform and
+                            third party integration.</p>
                     </p>
                     <ul>
-                        <li><strong>Xamarin:</strong> I prototyped a Xamarin (C#) Android app in tandem
-                            with another engineer who built an iOS app. We determined that unifying
-                            the platforms was not practical due to networking libraries.</li>
-                        <li><strong>Android:</strong> I assisted our Android developer with backend
-                            integration and app architecture. I brought in Dagger and Butterknife to
-                            simplify Activity wireup. I also integrated RxAndroid to tame response
-                            handling.</li>
-                        <li><strong>iOS:</strong> Developed several prototype iOS apps as part of 8
-                            member team. After the team was downsized to 2 engineers, I provided backend
-                            support. Eventually, I became the primary iOS developer.</li>
-                        <li><strong>Cordova:</strong> Integrated Android push notifications into a
-                            Cordova client wrapper app.</li>
-                        <li><strong>Django/Python:</strong> Built backend components and implemented
-                            services using Django. I also used Scrapy (Django-based web crawler) to
-                            build custom content importers. I built a lot of csv importers to bring
-                            client data into the platform.</li>
-                        <li><strong>Spring:</strong> Implemented backend and external services with
-                            Spring. Coordinated services with Kafka and Rabbit. I built real time chat
-                            capabilities using Websockets and Rabbit and integrated with the mobile
-                            platforms.</li>
-                        <li><strong>Angular:</strong> Built and maintained Angular client.</li>
-                        <li><strong>Node:</strong> Maintained node.js admin service.</li>
+                        <li><strong>C#/NServiceBus:</strong> Developed and maintained <a href="https://particular.net/nservicebus">NServiceBus</a> C#
+                            handlers that formed the core of the fulfillment platform.</li>
+                        <li><strong>Spring Boot:</strong> Migrated NServiceBus handlers to Spring Boot
+                            microservices running in AWS Kubernetes (EKS).</li>
+                        <li><strong>Node.js:</strong> Maintained node apps running in ECS and architected
+                            a migration path to Spring Boot.</li>
+                        <li><strong>AWS:</strong> Developed and administered AWS infrastructure using
+                            <a
+                            href="https://www.terraform.io/">Terraform</a>.</li>
+                        <li><strong>Python:</strong> Supported legacy Python AWS Lambda services and
+                            wrote a lot of scripts for arbitrary tasks.</li>
+                        <li><strong>Elasticsearch/Kibana:</strong> Maintained es cluster, built kibana
+                            dashboards for business users.</li>
+                        <li><strong>ANTLR:</strong> Built Slack bot with ANTLR and Spring Boot for
+                            infrastructure management.</li>
+                        <li><strong>Agile:</strong> Worked with stakeholders and project managers to
+                            plan development. Used Jira for sprint planning.</li>
                     </ul>
                 </div>
-                <div>
-                     <h3><em>Director of Technology</em>,
+                <div class="job">
+                    <div>
+                         <h3 class="title"><em>Senior Software Engineer</em>,
+        <a href="https://corp.declara.com">Declara</a>
+    </h3>
+ <span class="tenure">Jan 2014 — Present</span>
 
-    <a href="https://behaviorimaging.com/">Behavior Imaging</a>
-
-    </h3> <span class="tenure">Jan 2012 — Jan 2014</span>
+                    </div>
                     <p>
-                        <p>Led development of assessment platform and iOS apps. Administered AWS
-                            environment.</p>
+                        <p>Worked on all platform components - mobile (iOS/Android), backend (Django,
+                            Spring Boot) and frontend (Angular/2).</p>
+                    </p>
+                    <ul>
+                        <li><strong>Xamarin:</strong> Prototyped an Android app using the Xamarin framework
+                            (C#/Mono).</li>
+                        <li><strong>Cordova:</strong> Integrated Android and iOS push notifications
+                            into a Cordova client wrapper app.</li>
+                        <li><strong>Android:</strong> Used Retrofit and RxAndroid to integrate with
+                            REST backend. Used Dagger and Butterknife to streamline Activity development.</li>
+                        <li><strong>iOS:</strong> Supported iOS REST backend integration. Developed
+                            and maintained iOS app.</li>
+                        <li><strong>Python:</strong> Built backend components and implemented services
+                            using Django.</li>
+                        <li><strong>Spring Boot:</strong> Integrated backend with Spring Boot. Coordinated
+                            services with Kafka and Rabbit.</li>
+                        <li><strong>RabbitMQ:</strong> Built chat and user presence using Websockets/STOMP
+                            and Rabbit; integrated with the mobile platforms.</li>
+                        <li><strong>Angular:</strong> Built and maintained Angular/2 clients.</li>
+                        <li><strong>Node.js:</strong> Maintained node.js admin service.</li>
+                        <li><strong>Consultant Work:</strong> Assisted with updates and enhancements
+                            after joining Bodybuilding.com.</li>
+                    </ul>
+                </div>
+                <div class="job">
+                    <div>
+                         <h3 class="title"><em>Director of Technology</em>,
+        <a href="https://behaviorimaging.com/">Behavior Imaging</a>
+    </h3>
+ <span class="tenure">Jan 2012 — Jan 2014</span>
+
+                    </div>
+                    <p>
+                        <p>Led design, development, documentation and administration of assessment
+                            platforms. Managed outsourced development team.</p>
                     </p>
                     <ul>
                         <li><strong><a href="https://behaviorimaging.com/products/assessment-view/">Assessment View</a></strong> is
                             a platform for administering alternative assessments for K-12 students.
-                            Initially, it was build in PHP using the Zend Framework and a Flash frontend.
+                            Initially, it was built in PHP using the Zend Framework and a Flash frontend.
                             I worked with a remote team to redesign and build the second version using
                             Symfony2 and ExtJS. I also built and maintained the AWS host infrastructure.
                             While the v2 development was underway, I supported version 1.</li>
@@ -226,32 +268,34 @@
                             codebase. I oversaw design and development of version 2, including merging
                             AssessmentView functionality.</li>
                         <li><strong><a href="https://behaviorimaging.com/noda/">NODA</a>:</strong> NODA
-                            was a research project conducted with Georgia Tech and SARRC. An iOS app
-                            was developed to allow caregivers to record and upload video of patient
-                            behaviors for clinician analysis. The video was tagged with DSM IV generated
-                            tags to quantify diagnostics.</li>
-                        <li><strong>iOS:</strong> Specified and managed development of specialized
+                            was a research project conducted with Georgia Tech and <a href="https://autismcenter.org/">SARRC</a>.
+                            An iOS app was developed to allow caregivers to record and upload video
+                            of patient behaviors for clinician analysis. The video was tagged with
+                            DSM IV generated tags to quantify diagnostics.</li>
+                        <li><strong>iOS:</strong> Wrote specifications and managed development of specialized
                             versions of Behavior Connect, including custom iOS apps used for video
                             data collection.</li>
                     </ul>
                 </div>
-                <div>
-                     <h3><em>Software Engineer</em>,
+                <div class="job">
+                    <div>
+                         <h3 class="title"><em>Software Engineer</em>,
+        Blackfin/Xtreme Consulting
+    </h3>
+ <span class="tenure">May 2006 — Jan 2012</span>
 
-    Blackfin/Xtreme Consulting
-
-    </h3> <span class="tenure">May 2006 — Jan 2012</span>
+                    </div>
                     <p>
-                        <p>Software development consultant</p>
+                        <p>Consulting Software Engineer</p>
                     </p>
                     <ul>
-                        <li><strong>Idaho Dept of Labor:</strong> Maintained and improved Idaho Department
+                        <li><strong>Idaho Dept of Labor:</strong> Maintained and upgraded Idaho Department
                             of Labor Unemployment Insurance VB.NET fraud tracking web application.</li>
-                        <li><strong>Microsoft:</strong> Developed an application to generate and validate
-                            software loan offers. The financial rules were highly dynamic and complex.
-                            I implemented a simple DSL to translate textual rules (stored in the DB)
-                            to C# Expressions, which were bound to client-side validators. I also implemented
-                            a simple ANTLR parser to assist with testing.</li>
+                        <li><strong>Microsoft:</strong> Developed ASP.NET MVC application to generate
+                            and validate software loan offers. The financial rules were highly dynamic
+                            and complex. I implemented a simple DSL to translate textual rules (stored
+                            in the DB) to C# Expressions, which were bound to client-side validators.
+                            I also implemented a simple ANTLR parser to assist with testing.</li>
                         <li><strong>Microsoft/ProClarity:</strong> Part of team assisting with Delphi
                             legacy support after Microsoft acquired ProClarity. My focus was localization.</li>
                         <li><strong>Idaho Department of Education:</strong> Longitudinal Data System
@@ -260,45 +304,16 @@
                         <li><strong><a href="http://www.healthwise.org">Healthwise</a>:</strong> Consulted
                             as VSTO expert on Excel-based data entry application to simplify medical
                             diagnosis rule entry.</li>
-                        <li><strong>Boise Cascade:</strong> I built an Excel app for users to generate
-                            material estimates based on structure layout. I also developed a desktop
-                            app that parsed lumbermill log data and generated metrics using Excel pivot
-                            tables.</li>
+                        <li><strong>Boise Cascade:</strong> Built an Excel app using VBA for users
+                            to generate required material estimates based on structure layout. I also
+                            developed a desktop app that parsed lumber mill log data and generated
+                            business metrics using Excel pivot tables.</li>
                         <li><strong>Idaho Dept of Lands:</strong> Built <a href="http://web.idl.idaho.gov/timbersale/Search.aspx">timber sale tracking app</a> using
-                            Windows Workflow Foundation and ASP.NET; integrated with IDL site.</li>
-                        <li><strong>Drupal:</strong> I developed a number of Drupal sites; notable
-                            instances include <a href="https://craneweb.com">Craneweb</a> which allowed
-                            users to buy, sell and lease cranes. The <a href="https://www.farmhousecollection.com">Farmhouse Collection</a> was
+                            Windows Workflow Foundation and ASP.NET.</li>
+                        <li><strong>Drupal:</strong> Developed a number of Drupal sites; notable instances
+                            include <a href="https://craneweb.com">Craneweb</a> which allowed users to
+                            buy, sell and lease cranes. The <a href="https://www.farmhousecollection.com">Farmhouse Collection</a> was
                             a furniture site accessible by designers.</li>
-                    </ul>
-                </div>
-                <div>
-                     <h3><em>Software Engineer</em>,
-
-    Hewlett Packard
-
-    </h3> <span class="tenure">Jan 2001 — Jun 2005</span>
-                    <p>
-                        <p>Software Engineer supporting third party application development</p>
-                    </p>
-                    <ul>
-                        <li><strong>Software Engineer:</strong> I developed, documented and supported
-                            the Laserjet embedded Chai VM SDK (HP&#39;s Java implementation). I used
-                            JNI to integrate with the LaserJet scan and fax eCOM functionality.</li>
-                    </ul>
-                </div>
-                <div>
-                     <h3><em>Contract Software Engineer</em>,
-
-    Hewlett Packard
-
-    </h3> <span class="tenure">Jun 1998 — Jan 2001</span>
-                    <p></p>
-                    <ul>
-                        <li><strong>Contract Software Engineer II: </strong> I worked as a QA engineer
-                            using Perl to build and run a test harness. I used <a href="http://www.swig.org/">SWIG</a> to
-                            interface with SCAPI which read low-level scanner data; this enabled automated
-                            scan and fax tests.</li>
                     </ul>
                 </div>
             </section>
@@ -310,21 +325,21 @@
                 </header>
                 <div>
                      <h3><em>BS</em>, Boise State University</h3>
- <span class="tenure">Jan 1997 — Jan 2000</span>
+ <span class="tenure"></span>
 
-                    <p>Computer Science and Math.</p>
+                    <p>Computer Science</p>
+                </div>
+                <div>
+                     <h3><em>BS</em>, Boise State University</h3>
+ <span class="tenure"></span>
+
+                    <p>Math</p>
                 </div>
                 <div>
                      <h3><em>BA</em>, University of Idaho</h3>
- <span class="tenure">Jan 1989 — Jan 1991</span>
+ <span class="tenure"></span>
 
                     <p>Classical Languages.</p>
-                </div>
-                <div>
-                     <h3>University of Puget Sound</h3>
- <span class="tenure">Jan 1987 — Jan 1989</span>
-
-                    <p>Business Leadership, Computer Science and Honors Program.</p>
                 </div>
             </section>
         </main>

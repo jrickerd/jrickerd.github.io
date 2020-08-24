@@ -496,7 +496,7 @@
           </w:rPr>
           <w:t> - </w:t>
         </w:r>
-        <w:hlink w:dest="http://resume.rickerd.org">
+        <w:hlink w:dest="https://resume.rickerd.org">
           <w:r wsp:rsidRPr="003876BF">
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
@@ -506,7 +506,7 @@
           </w:r>
         </w:hlink>
       </w:p>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Full stack and mobile developer.</w:t></w:r><w:r><w:rPr></w:rPr><w:t>   [</w:t></w:r><w:hlink w:dest="http://resume.rickerd.org/resume.pdf"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>pdf</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>] [</w:t></w:r><w:hlink w:dest="http://resume.rickerd.org/resume.md"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>md</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>]</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Senior full stack and mobile engineer.</w:t></w:r><w:r><w:rPr></w:rPr><w:t>   [</w:t></w:r><w:hlink w:dest="resume.pdf"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>pdf</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>]</w:t></w:r>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
     <w:pPr>
@@ -546,7 +546,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>JavaScript, jQuery, ExtJS, Angular</w:t>
+            <w:t>JavaScript, jQuery, Angular</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -598,7 +598,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Django, Drupal, Spring, Symfony2, ASP.NET MVC</w:t>
+            <w:t>Django, Spring Boot, ASP.NET MVC, Node</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -624,7 +624,33 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Python, PHP, Java, JavaScript, C#, VB.NET, VBA, C/C++, PowerShell, Objective-C, Perl</w:t>
+            <w:t>Python, PHP, Java, JavaScript, C#, Objective-C</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Database:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>PostgreSQL, MySQL, SqlServer</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -650,7 +676,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Git, Gradle, AWS, Kafka</w:t>
+            <w:t>Git, Gradle, Maven, RabbitMQ, NServiceBus, AWS, Terraform, Kubernetes, Docker, ANTLR</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -670,6 +696,153 @@
       <w:t>EMPLOYMENT</w:t>
     </w:r>
   </w:p>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Senior Software Engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://bodybuilding.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Bodybuilding.com</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Jul 2018 — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Senior Software Engineer supporting ECommerce fulfillment</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>C#/NServiceBus:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Developed and maintained NServiceBus C# handlers. These were central to managing the order fulfillment workflow.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Spring Boot:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Migrated NServiceBus handlers to Spring Boot microservices running in Kubernetes (EKS).</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Node.js:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Maintained node apps running in ECS and architected a migration path to Spring Boot.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>AWS:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Developed and administered AWS infrastructure using Terraform, AWS CLI and AWS Console.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Python:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Supported legacy Python AWS Lambda services for logging transport.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Elasticsearch/Kibana:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Maintained es cluster and built kibana dashboards for business users.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>ANTLR:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built Slack bot with ANTLR and Spring Boot for service management.</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
 
 
   <wx:sub-section>
@@ -723,7 +896,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Xamarin:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I prototyped a Xamarin (C#) Android app in tandem with another engineer who built an iOS app. We determined that unifying the platforms was not practical due to networking libraries.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Xamarin:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Prototyped a Xamarin (C#) Android app.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -738,7 +911,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Android:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I assisted our Android developer with backend integration and app architecture. I brought in Dagger and Butterknife to simplify Activity wireup. I also integrated RxAndroid to tame response handling.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Cordova:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Integrated Android and iOS push notifications into a Cordova client wrapper app.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -753,7 +926,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>iOS:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Developed several prototype iOS apps as part of 8 member team. After the team was downsized to 2 engineers, I provided backend support. Eventually, I became the primary iOS developer.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Android:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Used Retrofit and RxAndroid to integrate with REST backend. Used Dagger and Butterknife to streamline Activity development.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -768,7 +941,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Cordova:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Integrated Android push notifications into a Cordova client wrapper app.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>iOS:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Supported iOS REST backend integration. Developed and maintained iOS app.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -783,7 +956,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Django/Python:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built backend components and implemented services using Django. I also used Scrapy (Django-based web crawler) to build custom content importers. I built a lot of csv importers to bring client data into the platform.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Python:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built backend components and implemented services using Django.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -798,7 +971,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Spring:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Implemented backend and external services with Spring. Coordinated services with Kafka and Rabbit. I built real time chat capabilities using Websockets and Rabbit and integrated with the mobile platforms.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Spring Boot:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Integrated backend with Spring Boot. Coordinated services with Kafka and Rabbit.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -813,7 +986,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Angular:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built and maintained Angular client.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>RabbitMQ:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built chat and user presence using Websockets/STOMP and Rabbit; integrated with the mobile platforms.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -828,7 +1001,37 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Node:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Maintained node.js admin service.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Angular:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built and maintained Angular/2 clients.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Node.js:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Maintained node.js admin service.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Consultant Work:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Assisted with updates and enhancements after joining Bodybuilding.com.</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -869,7 +1072,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Led development of assessment platform and iOS apps. Administered AWS environment.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Led development and administration of assessment platforms.</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -885,7 +1088,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:hlink w:dest="https://behaviorimaging.com/products/assessment-view/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Assessment View</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> is a platform for administering alternative assessments for K-12 students. Initially, it was build in PHP using the Zend Framework and a Flash frontend. I worked with a remote team to redesign and build the second version using Symfony2 and ExtJS. I also built and maintained the AWS host infrastructure. While the v2 development was underway, I supported version 1.</w:t></w:r>
+      <w:hlink w:dest="https://behaviorimaging.com/products/assessment-view/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Assessment View</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> is a platform for administering alternative assessments for K-12 students. Initially, it was built in PHP using the Zend Framework and a Flash frontend. I worked with a remote team to redesign and build the second version using Symfony2 and ExtJS. I also built and maintained the AWS host infrastructure. While the v2 development was underway, I supported version 1.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -915,7 +1118,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:hlink w:dest="https://behaviorimaging.com/noda/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>NODA</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> NODA was a research project conducted with Georgia Tech and SARRC. An iOS app was developed to allow caregivers to record and upload video of patient behaviors for clinician analysis. The video was tagged with DSM IV generated tags to quantify diagnostics.</w:t></w:r>
+      <w:hlink w:dest="https://behaviorimaging.com/noda/"><w:r><w:rPr><w:b/><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>NODA</w:t></w:r></w:hlink><w:r><w:rPr><w:b/></w:rPr><w:t>:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> NODA was a research project conducted with Georgia Tech and </w:t></w:r><w:hlink w:dest="https://autismcenter.org/"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>SARRC</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>. An iOS app was developed to allow caregivers to record and upload video of patient behaviors for clinician analysis. The video was tagged with DSM IV generated tags to quantify diagnostics.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -984,7 +1187,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Idaho Dept of Labor:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Maintained and improved Idaho Department of Labor Unemployment Insurance VB.NET fraud tracking web application.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Idaho Dept of Labor:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Maintained and upgraded Idaho Department of Labor Unemployment Insurance VB.NET fraud tracking web application.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -999,7 +1202,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Microsoft:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Developed an application to generate and validate software loan offers. The financial rules were highly dynamic and complex. I implemented a simple DSL to translate textual rules (stored in the DB) to C# Expressions, which were bound to client-side validators. I also implemented a simple ANTLR parser to assist with testing.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Microsoft:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Developed ASP.NET MVC application to generate and validate software loan offers. The financial rules were highly dynamic and complex. I implemented a simple DSL to translate textual rules (stored in the DB) to C# Expressions, which were bound to client-side validators. I also implemented a simple ANTLR parser to assist with testing.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1059,7 +1262,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Boise Cascade:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I built an Excel app for users to generate material estimates based on structure layout. I also developed a desktop app that parsed lumbermill log data and generated metrics using Excel pivot tables.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Boise Cascade:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built an Excel app using VBA for users to generate required material estimates based on structure layout. I also developed a desktop app that parsed lumber mill log data and generated business metrics using Excel pivot tables.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1074,7 +1277,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Idaho Dept of Lands:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built </w:t></w:r><w:hlink w:dest="http://web.idl.idaho.gov/timbersale/Search.aspx"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>timber sale tracking app</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> using Windows Workflow Foundation and ASP.NET; integrated with IDL site.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Idaho Dept of Lands:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Built </w:t></w:r><w:hlink w:dest="http://web.idl.idaho.gov/timbersale/Search.aspx"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>timber sale tracking app</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> using Windows Workflow Foundation and ASP.NET.</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1089,115 +1292,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Drupal:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I developed a number of Drupal sites; notable instances include </w:t></w:r><w:hlink w:dest="https://craneweb.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Craneweb</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> which allowed users to buy, sell and lease cranes. The </w:t></w:r><w:hlink w:dest="https://www.farmhousecollection.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Farmhouse Collection</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> was a furniture site accessible by designers.</w:t></w:r>
-    </w:p>
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Software Engineer, </w:t>
-      </w:r>
-      
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>Hewlett Packard</w:t>
-        </w:r>
-      
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>Jan 2001 — Jun 2005</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Software Engineer supporting third party application development</w:t></w:r>
-    </w:p>
-
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Software Engineer:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> I developed, documented and supported the Laserjet embedded Chai VM SDK (HP&amp;apos;s Java implementation). I used JNI to integrate with the LaserJet scan and fax eCOM functionality.</w:t></w:r>
-    </w:p>
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Contract Software Engineer, </w:t>
-      </w:r>
-      
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>Hewlett Packard</w:t>
-        </w:r>
-      
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>Jun 1998 — Jan 2001</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      
-    </w:p>
-
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr><w:b/></w:rPr><w:t>Contract Software Engineer II: </w:t></w:r><w:r><w:rPr></w:rPr><w:t> I worked as a QA engineer using Perl to build and run a test harness. I used </w:t></w:r><w:hlink w:dest="http://www.swig.org/"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>SWIG</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> to interface with SCAPI which read low-level scanner data; this enabled automated scan and fax tests.</w:t></w:r>
+      <w:r><w:rPr><w:b/></w:rPr><w:t>Drupal:</w:t></w:r><w:r><w:rPr></w:rPr><w:t> Developed a number of Drupal sites; notable instances include </w:t></w:r><w:hlink w:dest="https://craneweb.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Craneweb</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> which allowed users to buy, sell and lease cranes. The </w:t></w:r><w:hlink w:dest="https://www.farmhousecollection.com"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Farmhouse Collection</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> was a furniture site accessible by designers.</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -1240,7 +1335,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>1997 — 2000</w:t>
+        <w:t></w:t>
       </w:r>
     </w:p>
 
@@ -1268,35 +1363,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>1989 — 1991</w:t>
-      </w:r>
-    </w:p>
-
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>University of Puget Sound</w:t>
-        </w:r>
-      
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>1987 — 1989</w:t>
+        <w:t></w:t>
       </w:r>
     </w:p>
 
