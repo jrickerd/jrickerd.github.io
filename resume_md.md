@@ -19,17 +19,20 @@ Web: https://resume.rickerd.org
 
 ### *Senior Software Engineer*, [Bodybuilding.com](https://bodybuilding.com) (Jul 2018 — Present)
 
-Senior Software Engineer supporting ECommerce fulfillment platform and third party integration.
-  - **C#/NServiceBus:** Developed and maintained [NServiceBus](https://particular.net/nservicebus) C# handlers that formed the core of the fulfillment platform.
+Senior Software Engineer supporting ecommerce fulfillment platform and third party integrations.
+  - **Shopify:** We replatformed to Shopify in 2021. I built the Shopify to fulfillment pipeline and integrated the financial systems (primarily Great Plains).
+  - **Documentation:** Documentation was largely missing/outdated, I reorganized and updated it.
+  - **C#/NServiceBus/RabbitMQ:** Developed and maintained [NServiceBus](https://particular.net/nservicebus) C# handlers that formed the core of the fulfillment platform.
   - **Spring Boot:** Migrated NServiceBus handlers to Spring Boot microservices running in AWS Kubernetes (EKS).
   - **Node.js:** Maintained node apps running in ECS and architected a migration path to Spring Boot.
   - **AWS:** Developed and administered AWS infrastructure using [Terraform](https://www.terraform.io/).
   - **Python:** Supported legacy Python AWS Lambda services and wrote a lot of scripts for arbitrary tasks.
+  - **PERL:** Maintained legacy perl scripts
   - **Elasticsearch/Kibana:** Maintained es cluster, built kibana dashboards for business users.
   - **ANTLR:** Built Slack bot with ANTLR and Spring Boot for infrastructure management.
-  - **Agile:** Worked with stakeholders and project managers to plan development. Used Jira for sprint planning.
+  - **Agile:** Planned, estimated and tracked work in Jira - toggled between scrum and kanban.
 
-### *Senior Software Engineer*, [Declara](https://corp.declara.com) (Jan 2014 — Present)
+### *Senior Software Engineer*, [Declara](https://corp.declara.com) (Jan 2014 — Mar 2020)
 
 Worked on all platform components - mobile (iOS/Android), backend (Django, Spring Boot) and frontend (Angular/2).
   - **Xamarin:** Prototyped an Android app using the Xamarin framework (C#/Mono).
@@ -80,7 +83,7 @@ Math
 
 ### University of Idaho ()
 
-Classical Languages.
+Classical Languages
 
 
 
