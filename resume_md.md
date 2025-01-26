@@ -66,12 +66,12 @@ Consulting Software Engineer
 
 ## EDUCATION
 
-### Boise State University ()
+### Boise State University 
 
 Computer Science, Mathematics
 
 
-### University of Idaho ()
+### University of Idaho 
 
 Classical Languages
 
