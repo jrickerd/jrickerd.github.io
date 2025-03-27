@@ -1,7 +1,7 @@
 John Rickerd
 ============
 Email: john@rickerd.org
-Tel: 1.208.395.1290
+
 Web: https://resume.rickerd.org
 
 **Senior full stack and mobile engineer.**   [[pdf](resume.pdf)]
@@ -66,14 +66,9 @@ Consulting Software Engineer
 
 ## EDUCATION
 
-### Boise State University 
+### Boise State University ()
 
 Computer Science, Mathematics
-
-
-### University of Idaho 
-
-Classical Languages
 
 
 
